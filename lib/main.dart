@@ -24,7 +24,7 @@ final TextStyle _biggerFont = const TextStyle(fontSize: 18);
     //return Text(wordPair.asPascalCase); // ... two lines.
     return Scaffold (                   // Add from here... 
       appBar: AppBar(
-        title: Text('Amruth\'s App'),
+        title: Text('Team Name Generator'),
       ),
       body: _buildSuggestions(),
     );                                      // ... to here.
