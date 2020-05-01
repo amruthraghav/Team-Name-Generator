@@ -1,4 +1,4 @@
-# myapp
+# Team-Name Generator
 
 A new Flutter project.
 
